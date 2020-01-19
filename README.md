@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ###### Screenshots : 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b431adb8b7a64958a6ff5ab2820ec871)](https://app.codacy.com/manual/ahmedkmadani/weather-app?utm_source=github.com&utm_medium=referral&utm_content=ahmedkmadani/weather-app&utm_campaign=Badge_Grade_Dashboard)
+
 
 
 ![WeatherApp](https://github.com/ahmedkmadani/weather-app/blob/master/Screenshot/Screenshot%20from%202019-04-04%2019-50-39.png)
